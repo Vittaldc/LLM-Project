@@ -1,0 +1,20 @@
+# Python environment
+bin/
+include/
+lib/
+share/
+pyvenv.cfg
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+.python-version
+# local databases and runtime artifacts
+chroma_db/
+quiz_scores.db
+# OS
+.DS_Store
+# IDE
+.vscode/
+.idea/
